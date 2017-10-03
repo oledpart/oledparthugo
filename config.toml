@@ -1,0 +1,32 @@
+# Site settings
+baseurl = "http://oledpart.github.io/"
+languageCode = "en-us"
+title = "Oled parts"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-106569111-1"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "docs"
+
+[params]
+    # Meta
+    title = "Oled Displays"
+    subtitle = "Recommended sources for Amoled (oled) Displays"
+    author = "Ben Byers"
+    description = "This site provides links to amoled displays on common ecommerce sites."
+    keywords = "amoled, oled, screen, repair, oled screen, phone repair, samsung screen, s7, s6, s series, note series, note 8"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "See sources"
+
+    # Footer text
+    # footertext = "Made by Ben."
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']

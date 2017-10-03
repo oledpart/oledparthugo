@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Oled Displays</title>
+    <link>http://oledpart.com/about/</link>
+    <description>Recent content in Abouts on Oled Displays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 15:42:28 -0700</lastBuildDate>
+    
+	<atom:link href="http://oledpart.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samsung S8 Plus</title>
+      <link>http://oledpart.com/about/samsung/s8p/</link>
+      <pubDate>Sun, 17 Sep 2017 15:42:28 -0700</pubDate>
+      
+      <guid>http://oledpart.com/about/samsung/s8p/</guid>
+      <description>This is a big set of test writing. I need to read the docs before bigger moves are made.</description>
+    </item>
+    
+  </channel>
+</rss>
